@@ -1,2 +1,2 @@
 ﻿
-Autók adatai
+Autók adatai szövegfájlban
